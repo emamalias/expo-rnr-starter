@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Stacks
+
+- [Expo SDK 51](https://docs.expo.dev/)
+- [React 18](https://react.dev/learn)
+- [React Native](https://reactnative.dev/)
+- [ShadCN](https://ui.shadcn.com/docs)
+- [Tailwind 3.4+](https://tailwindcss.com/docs/installation)
+
 ## Get started
 
 1. Install dependencies
