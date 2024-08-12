@@ -9,6 +9,7 @@
     "android": "expo start -c --android",
     "ios": "expo start -c --ios",
     "web": "expo start -c --web",
+    "test": "jest --watchAll",
     "clean": "rm -rf .expo node_modules"
   },
   "jest": {
